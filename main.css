@@ -21,5 +21,10 @@ body {
   
   p, li, dd, dt, address {
     line-height: 1.5;
-    list-style-type: none;
   }
+address li{
+  list-style-type: none;
+}
+header,.container, footer p{
+  margin-left:2.5em;
+}
